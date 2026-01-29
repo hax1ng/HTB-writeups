@@ -155,7 +155,7 @@ Wait... is that a Rickroll reference? In a CTF challenge? Never gonna give you u
 Combining both parts:
 
 ```
-HTB{by_4dd1ng_nd_multiply1ng_w3_pl4y_4_l1ttl3_m3l0dy_tuturututu_n3v3r_g0nna_g1v3_y0u_up}
+HTB{you_got_this}
 ```
 
 Let's verify:
