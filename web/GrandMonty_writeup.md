@@ -242,7 +242,7 @@ GraphQL typically uses POST with JSON, but many implementations also accept GET 
 ## Flag
 
 ```
-HTB{sl33p_th3_gr4ph5_f0r_x5l34k5}
+HTB{...}
 ```
 
 Translation: "sleep the graphs for xs leaks" - a clever reference to the time-based (sleep) GraphQL XS-Leak technique used to solve this challenge!
