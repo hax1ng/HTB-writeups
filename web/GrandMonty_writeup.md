@@ -3,7 +3,6 @@
 **Challenge:** GrandMonty
 **Difficulty:** Medium
 **Category:** Web Exploitation
-**Flag:** `HTB{sl33p_th3_gr4ph5_f0r_x5l34k5}`
 
 ---
 
