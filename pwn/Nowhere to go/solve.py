@@ -10,8 +10,8 @@ SYSCALL_RET  = 0x401018
 ADD_RSP_30   = 0x401058
 LOOP         = 0x4010ab
 
-REMOTE_HOST = '154.57.164.66'
-REMOTE_PORT = 30838
+REMOTE_HOST = 'IP'
+REMOTE_PORT = port
 
 def conn():
     if args.REMOTE:
