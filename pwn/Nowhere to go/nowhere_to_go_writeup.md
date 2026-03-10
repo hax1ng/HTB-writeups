@@ -1,6 +1,6 @@
 # Nowhere to go
 
-**Category:** Pwn | **Difficulty:** Hard | **Flag:** `HTB{th4re_is_a1ways_a_vDS0_2_go_2!!}`
+**Category:** Pwn | **Difficulty:** Hard | 
 
 ## Overview
 A tiny statically-linked binary served via QEMU VM with a clear buffer overflow but no useful ROP gadgets in the binary itself.
